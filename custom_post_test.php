@@ -1,7 +1,6 @@
 <?php
 /*
 Plugin Name: Custom Post Type Test
-Plugin URI: http://wp.tutsplus.com/
 Description: This is a test to see if I can make custom post types into a plugin.
 Version: 1.0
 Author: Daniel Warner
