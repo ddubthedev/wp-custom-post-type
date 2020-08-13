@@ -1,2 +1,3 @@
 #This is my README for my Custom Post Type Plugin.
-No additional info at this time.
+
+Simple WordPress plugin for adding a custom post type.
